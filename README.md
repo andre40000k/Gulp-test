@@ -24,3 +24,7 @@
 ```bash
     npm start
 ```
+ или
+```bash
+    gulp run
+```

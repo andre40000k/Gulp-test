@@ -4,7 +4,6 @@ const browserSync = require("browser-sync").create();
 const autoprefixer = require("gulp-autoprefixer");
 const cleanCSS = require("gulp-clean-css");
 const rename = require("gulp-rename");
-const sourcemaps = require("gulp-sourcemaps");
 
 const paths = {
   scss: "./src/scss/**/*.scss",
